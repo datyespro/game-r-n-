@@ -3,7 +3,7 @@
 ## 📌 Giới thiệu
 
 Đây là một game rắn săn mồi đơn giản được xây dựng bằng **Python** và **Pygame**.
-Người chơi điều khiển con rắn để ăn táo 🍎 và ghi điểm, cố gắng không để rắn va vào chính mình.
+Người chơi điều khiển con rắn để ăn táo 🍎 và ghi điểm, cố gắng không để rắn va vào chính mình vầ rìa bản đồ.
 
 ---
 
